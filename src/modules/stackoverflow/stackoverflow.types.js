@@ -1,0 +1,4 @@
+export const FETCH_QUESTIONS_REQUEST = "stackoverflow/FETCH_QUESTIONS_REQUEST";
+export const FETCH_QUESTIONS_SUCCESS = "stackoverflow/FETCH_QUESTIONS_SUCCESS";
+export const FETCH_QUESTIONS_FAILURE = "stackoverflow/FETCH_QUESTIONS_FAILURE";
+export const SET_SORT_CRITERIA = "stackoverflow/SET_SORT_CRITERIA";
